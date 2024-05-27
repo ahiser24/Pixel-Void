@@ -3,4 +3,4 @@ Upload an image and it will attempt to remove the background. You'll receive a p
 
 This tool was built using Flask, Python, and the REMBG library.
 
-![image](https://github.com/ahiser24/Pixel-Void/assets/65128664/94826ca8-0186-49c4-8f75-a84e1dc811f2)
+![PIxel Void Screenshot](https://github.com/ahiser24/Pixel-Void/assets/65128664/58502e97-5bf0-4680-99bc-24a470171e1a)
